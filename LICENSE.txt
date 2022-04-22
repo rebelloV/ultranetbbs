@@ -1,0 +1,26 @@
+JHSL v1 (Joe Harley Software License Version 1), April 2022
+Based off: 
+The original ARC Shareware License, by System Enhancement Associates, 1985(?)
+The MIT License, MIT, 1987(?)
+
+You may copy and distribute this program freely, provided that no fee is charged for such copying and distribution.
+
+If you like this program, and find it of use, then please distribute within the license
+conditions to help spread the program, it is much appreciated!
+
+You may use this program in a commercial environment, either in
+in *unmodified* binary format, or through *modified* code in
+another program or not. 
+
+All modified code must delineate the original author -
+Joe Harley - from those who made the modifications in the opening comments.
+
+Any other code/program(s) that is based off this software, must feature
+full credit to the author - Joe Harley - and the title of the original program.
+
+THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY, OR LIABILITY ON THE
+AUTHOR'S (JOE HARLEY) PART FOR ACCIDENTS OR NEGATIVE EFFECTS THAT MAY
+OCCUR THROUGH USE OF THIS SOFTWARE.
+
+If you fail to abide by the terms of this license,  then your conscience
+will haunt you for the rest of your life!
