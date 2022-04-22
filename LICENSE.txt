@@ -1,7 +1,6 @@
 JHSL v1 (Joe Harley Software License Version 1), April 2022
 Based off: 
 The original ARC Shareware License, by System Enhancement Associates, 1985(?)
-The MIT License, MIT, 1987(?)
 
 You may copy and distribute this program freely, provided that no fee is charged for such copying and distribution.
 
